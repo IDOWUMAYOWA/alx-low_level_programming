@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * main-print the string with puts
- * Return 0
+ * main - print the string with puts
+ *
+ * Description: using the main function
  * Print Programming is like building a multilingual puzzle
+ * Return: 0
  */
 int main(void)
 {
