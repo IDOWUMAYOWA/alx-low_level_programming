@@ -1,11 +1,10 @@
 #include <stdio.h>
-
 /**
  * main - print in printf function
  *
  * Description: using the main function
  * print statements
- * Return: 0
+ * Return:0
  */
 int main(void)
 {	
