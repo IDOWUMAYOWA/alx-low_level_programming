@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints all the number of base 16 in lowercase,followed by a new line
- * You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+ * You can only use the putchar function
  * All your code should be in the main function
  * You can only use putchar three times in your code
  * Return: 0
@@ -13,7 +13,6 @@ char l;
 
 for (n = '0'; n <= '9'; n++)
 {
-
 putchar(n);
 }
 	
@@ -23,6 +22,5 @@ putchar(l);
 }
 
 putchar('\n');
-
 return (0);
 }
